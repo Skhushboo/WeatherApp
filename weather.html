@@ -1,0 +1,17 @@
+<form class="form-inline" align="center" style="margin-top: 10%">
+    <input type="text" class="form-control" ng-model="location" placeholder="Enter city...">
+
+    <input class="btn-warning" type="button" ng-click="refresh()" value="Go!">
+</form>
+
+<div class="details" align="center" >
+    Tempertaure: {{ tempObj.temp }}
+    <br>
+    Weather: {{ weatherObj.description}}
+    <br>
+    Humidity: {{ humidObj.humidity }}
+    <br>
+    Wind: {{ windObj.speed }}
+
+</div>
+

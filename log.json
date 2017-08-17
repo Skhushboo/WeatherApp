@@ -1,0 +1,15 @@
+{
+  "coord":{"lon":-74.32,"lat":40.58},
+  "weather":[{"id":500,"main":"Rain", "description":"light rain","icon":"10d"},
+             {"id":701,"main":"Mist","description":"mist","icon":"50d"}],
+  "base":"stations",
+  "main":{"temp":296.71,"pressure":1004,"humidity":78,"temp_min":295.15,"temp_max":299.15},
+  "visibility":16093,
+  "wind":{"speed":3.1,"deg":310,"gust":5.7},
+  "clouds":{"all":75},
+  "dt":1498312080,
+  "sys":{"type":1,"id":1972,"message":0.0037,"country":"US","sunrise":1498296465,"sunset":1498350723},
+  "id":5099738,
+  "name":"Iselin",
+  "cod":200
+}
